@@ -6,4 +6,5 @@
 }
 body {
   background-color: rgb(163, 165, 250);
+  transition: ease-in-out 1s;
 }
