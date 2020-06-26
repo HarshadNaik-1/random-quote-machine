@@ -1,0 +1,18 @@
+.btn {
+  border: solid #fff;
+  text-decoration: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 8px;
+  color: #fff;
+  margin-top: 1rem;
+}
+
+@media (min-width: 900px) {
+  .btn {
+    margin-top: 5rem;
+  }
+}
+.btnbox {
+  text-align: center;
+}

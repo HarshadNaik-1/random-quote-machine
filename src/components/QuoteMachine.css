@@ -32,3 +32,16 @@
     box-shadow: 5px 27px 20px 5px rgba(0, 0, 0, 0.12);
   }
 }
+@media (min-width: 900px) {
+  .box {
+    margin-top: 5rem;
+    width: 700px;
+    min-height: 200px;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 5px 27px 20px 5px rgba(0, 0, 0, 0.12);
+  }
+  .btn {
+    margin-top: 5rem;
+  }
+}
