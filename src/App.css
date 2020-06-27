@@ -4,3 +4,13 @@
   justify-content: center;
   margin-top: 15rem;
 }
+.creator {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+@media (min-width: 900px) {
+  .creator {
+    font-size: 1rem;
+  }
+}

@@ -7,15 +7,7 @@ function App() {
     <div className="container">
       <div>
         <QuoteMachine />
-        <p
-          style={{
-            color: "white",
-            textAlign: "center",
-            fontSize: "12px",
-          }}
-        >
-          by harshad
-        </p>
+        <p className="creator">by harshad</p>
       </div>
     </div>
   );
