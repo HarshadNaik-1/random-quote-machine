@@ -6,8 +6,12 @@
   padding: 8px;
   color: #fff;
   margin-top: 1rem;
+  cursor: pointer;
 }
 
+.btn:hover {
+  transform: scale(1.1);
+}
 @media (min-width: 900px) {
   .btn {
     margin-top: 1rem;
@@ -16,4 +20,5 @@
 }
 .btnbox {
   text-align: center;
+  transform: ;
 }
