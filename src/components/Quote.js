@@ -64,7 +64,7 @@ const Quote = () => {
     );
   return (
     <div>
-      <h1 style={{ color: randomBodyColor, transition: "ease-in" }}>
+      <h1 style={{ color: randomBodyColor, transition: "ease-in-out" }}>
         <FontAwesomeIcon icon={faQuoteLeft} /> {quote}
       </h1>
       <p
